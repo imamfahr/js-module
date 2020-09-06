@@ -12,5 +12,4 @@ export default class Karyawan{
     getName(){
         return this.name;
     }
-    
 }
